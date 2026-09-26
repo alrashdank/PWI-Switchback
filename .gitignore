@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+node_modules/
+results_v6/mc_chunk*.csv
+*.docx
+*.pdf

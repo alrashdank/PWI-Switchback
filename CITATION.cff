@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite them as below."
+title: "Measuring cross-waste coupling in Lean 4.0: simulation code and results"
+authors:
+  - family-names: "Al-Rashdan"
+    given-names: "Khaled"
+    orcid: "https://orcid.org/0000-0001-6304-9061"
+    affiliation: "Public Authority for Applied Education and Training (PAAET), Kuwait"
+version: "1.0.2"
+date-released: "2026-09-26"
+license: MIT
+repository-code: "https://github.com/alrashdank/PWI-Switchback"
